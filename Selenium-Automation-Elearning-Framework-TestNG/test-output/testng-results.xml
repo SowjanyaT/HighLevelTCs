@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105109" started-at="2019-07-02T04:46:27Z" finished-at="2019-07-02T04:48:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105109" started-at="2019-07-02T04:46:27Z" finished-at="2019-07-02T04:48:12Z">
+      <class name="com.training.regression.tests.AdminDBTest">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.regression.tests.AdminDBTest@6a41eaa2]" name="setUpBeforeClass" is-config="true" duration-ms="12244" started-at="2019-07-02T04:46:27Z" finished-at="2019-07-02T04:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="Adminlogin()[pri:1, instance:com.training.regression.tests.AdminDBTest@6a41eaa2]" name="Adminlogin" duration-ms="9396" started-at="2019-07-02T04:46:39Z" finished-at="2019-07-02T04:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adminlogin -->
+        <test-method status="PASS" signature="loginDBTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.training.regression.tests.AdminDBTest@6a41eaa2]" name="loginDBTest" duration-ms="21487" started-at="2019-07-02T04:46:49Z" data-provider="db-inputs" finished-at="2019-07-02T04:47:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sports wear]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sports]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sports]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sports]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDBTest -->
+        <test-method status="PASS" signature="loginDBTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.training.regression.tests.AdminDBTest@6a41eaa2]" name="loginDBTest" duration-ms="20470" started-at="2019-07-02T04:47:11Z" data-provider="db-inputs" finished-at="2019-07-02T04:47:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cultural wear]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cultural]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cultural]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Cultural]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDBTest -->
+        <test-method status="PASS" signature="loginDBTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.training.regression.tests.AdminDBTest@6a41eaa2]" name="loginDBTest" duration-ms="20396" started-at="2019-07-02T04:47:31Z" data-provider="db-inputs" finished-at="2019-07-02T04:47:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Weekend uniform]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Weekend]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Weekend]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Weekend]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDBTest -->
+        <test-method status="PASS" signature="loginDBTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.training.regression.tests.AdminDBTest@6a41eaa2]" name="loginDBTest" duration-ms="20534" started-at="2019-07-02T04:47:51Z" data-provider="db-inputs" finished-at="2019-07-02T04:48:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Formal wear]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Formal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Formal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Formal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDBTest -->
+      </class> <!-- com.training.regression.tests.AdminDBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
